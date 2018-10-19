@@ -1,2 +1,3 @@
 # Learn to Code
-Learn to Code HTML & CSS
+
+Learn to Code HTML & CSS.
